@@ -1,0 +1,3 @@
+* JWT Logger
+
+Review SPA uses of JWT.

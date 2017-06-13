@@ -4,7 +4,8 @@
   "description": "",
   "main": "lib/index.js",
   "scripts": {
-    "build": "./node_modules/.bin/babel src -d lib"
+    "build": "./node_modules/.bin/babel src -d lib",
+    "dist": "npm run build && cat src/userscript-header.js lib/index.js > dist/index.js"
   },
   "keywords": [
     "jwt"
