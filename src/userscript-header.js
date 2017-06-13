@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name	JWT Logger
+// @name	JWT Tracker
 // @namespace	http://wal.sh/jwt
 // @version	1.0.1
 // @description	Log JWT tokens and claims.
